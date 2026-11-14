@@ -1,0 +1,6 @@
+{
+  "name": "Shell People Analytics",
+  "description": "Live UK workforce, attrition, compensation, and retention risk analytics dashboard powered by Google Sheets CSV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
